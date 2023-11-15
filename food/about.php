@@ -36,8 +36,8 @@ if(isset($_SESSION['user_id'])){
 <!-- header section ends -->
 
 <div class="heading">
-   <h3>about us</h3>
-   <p><a href="home.php">home</a> <span> / about</span></p>
+   <h3>About us</h3>
+   <p><a href="home.php">Home</a> <span> / About</span></p>
 </div>
 
 <!-- about section starts  -->
@@ -51,9 +51,12 @@ if(isset($_SESSION['user_id'])){
       </div>
 
       <div class="content">
-         <h3>why choose us?</h3>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Deserunt, neque debitis incidunt qui ipsum sed doloremque a molestiae in veritatis ullam similique sunt aliquam dolores dolore? Quasi atque debitis nobis!</p>
-         <a href="menu.html" class="btn">our menu</a>
+         <h3>CHIANG RUNG PARK CAFE</h3>
+         <p>Resort project, restaurant and
+Nordic style cafe, simple, good atmosphere.
+See a view of the surrounding mountains. Near tourist attractions
+In Chiang Rung District Chiang Rai Province</p>
+         <a href="menu.html" class="btn">Menu</a>
       </div>
 
    </div>
@@ -76,11 +79,6 @@ if(isset($_SESSION['user_id'])){
          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
       </div>
 
-      <div class="box">
-         <img src="images/step-2.png" alt="">
-         <h3>fast delivery</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt, dolorem.</p>
-      </div>
 
       <div class="box">
          <img src="images/step-3.png" alt="">
